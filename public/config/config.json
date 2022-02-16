@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1d42E3abDad471ff5EFce984d6d5CaA511398192",
+  "SCAN_LINK": "https://polygonscan.com/address/0x1d42e3abdad471ff5efce984d6d5caa511398192",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "FiburiReveal",
+  "SYMBOL": "Fiburi",
+  "MAX_SUPPLY": 555,
+  "WEI_COST": 85000000000000000000,
+  "DISPLAY_COST": 85,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/fiburi-reveal",
+  "SHOW_BACKGROUND": true
+}
